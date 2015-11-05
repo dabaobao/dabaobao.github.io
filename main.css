@@ -1,5 +1,5 @@
 body {
-	background: linear-gradient(0deg, red 40%, lightyellow);
+	background: linear-gradient(0deg, blue, green 40%, red );
 	font-family: 'Shadows Into Light', cursive;
 }
 
