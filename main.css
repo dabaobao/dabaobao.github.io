@@ -1,5 +1,5 @@
 body {
-	background: -webkit-linear-gradient(left, red , blue);
+	background: linear-gradient( to left top, blue, red);
 	font-family: 'Shadows Into Light', cursive;
 }
 
