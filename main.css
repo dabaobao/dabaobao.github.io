@@ -1,7 +1,7 @@
 body {
     background-image: url('starrysky.jpg');
 	background-repeat: no-repeat;
-	background-size: 400px 800px;
+	background-size: cover;
 	
 }
 
