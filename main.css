@@ -20,7 +20,7 @@ body {
 	opacity: 0.6;
 
 }
-.nav li{
+.nav-tabs {
 	font-family:'Shift', sans-serif;
 	font-weight: bold;
 	font-color: white;
