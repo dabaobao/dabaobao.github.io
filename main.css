@@ -37,13 +37,13 @@ body {
 	color: white;
 	text-align: center;
 	font-size: 30px;
-	background: linear-gradient(grey, #330 80%);
+	background: linear-gradient(grey, #333 80%);
 	padding-top: 30px;
 	padding-bottom: 30px;
 	width: 800px;
 	position:relative;
 	top: 100px;
-	box-shadow: 0.5px 0.5px 0.5px 0.5px #330;
+	box-shadow: 0.5px 0.5px 0.5px 0.5px #333;
 
 }
 
