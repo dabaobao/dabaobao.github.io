@@ -33,15 +33,15 @@ body {
 
 
 .countdays .container{
-	font-color: white;
+	color: white;
 	text-align: center;
 	font-size: 30px;
-	background-color: black;
+	background-color: linear-gradient(grey, black 80%);
 	padding-top: 30px;
 	padding-bottom: 30px;
-	width: 600px;
+	width: 800px;
 	position:relative;
-	top: 180px;
+	top: 100px;
 
 }
 
