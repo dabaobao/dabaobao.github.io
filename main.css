@@ -37,9 +37,11 @@ body {
 	background-color: black;
 	position: absolute;
 	top: 50%;
-	left: 15%;
-	right: 15%;
+	margin-left: auto;
+	margin-right: auto;
 	padding-top: 30px;
+	padding-bottom: 30px;
+}
 }
 
 
