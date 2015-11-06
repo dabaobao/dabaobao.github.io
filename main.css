@@ -1,5 +1,5 @@
 body {
-	background: linear-gradient(#FAD2FA, lightyellow 25%);
+    background-image: url('starrysky.jpg');
 	background-repeat: no-repeat;
 	height: 800px;
 }
@@ -8,17 +8,18 @@ body {
 	font-family: 'Shadows Into Light', cursive, bold;
 	font-size: 48px;
 	padding-left: 50px;
+	font-color:white;
 }
 
 
 .nav{
 	padding-top: 15px;
-	background-color:white;
+
 }
 .nav li{
 	font-family:'Shift', sans-serif;
 	display: inline;
-	font-size: 15px;
+	font-size: 10px;
 	color: black;
 	
 }
