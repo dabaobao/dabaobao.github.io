@@ -34,6 +34,8 @@ body {
 .container{
 	text-align: middle;
 	padding-left: 20px;
+	border: 1px solid white;
+
 }
 .countdays{
 	border: 1px solid white;
