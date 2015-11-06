@@ -39,13 +39,10 @@ body {
 	background-color: black;
 	position: absolute;
 	top: 50%;
-	left: 50%;
+	left: 25%;
+	padding-top: 30px;
 }
 
-.countdays .countainer script{
-	padding-top: 30px;
-	padding-bottom: 30px;
-}
 
 
 
