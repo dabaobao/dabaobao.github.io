@@ -1,14 +1,15 @@
 body {
     background-image: url('starrysky.jpg');
 	background-repeat: no-repeat;
-	height: 800px;
+	background-size: cover;
+	
 }
 
 .title h1{
 	font-family: 'Shadows Into Light', cursive, bold;
 	font-size: 48px;
 	padding-left: 50px;
-	font-color:white;
+	font-color: white;
 }
 
 
@@ -19,7 +20,7 @@ body {
 .nav li{
 	font-family:'Shift', sans-serif;
 	display: inline;
-	font-size: 10px;
+	font-size: 15px;
 	color: black;
 	
 }
