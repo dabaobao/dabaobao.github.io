@@ -13,11 +13,10 @@ body {
 	
 }
 
-.nav > li.active{
-	color: black;
-}
+
 .nav{
 	padding-top: 15px;
+	opacity: 0.2;
 }
 
 
