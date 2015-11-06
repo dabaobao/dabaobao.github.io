@@ -31,7 +31,9 @@ body {
 	opacity: 1;
 }
 
+
 .countdays .container{
+	font-color: white;
 	text-align: center;
 	font-size: 30px;
 	background-color: black;
@@ -39,7 +41,7 @@ body {
 	padding-bottom: 30px;
 	width: 600px;
 	position:relative;
-	top: 100px;
+	top: 180px;
 
 }
 
