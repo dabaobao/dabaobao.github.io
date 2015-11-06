@@ -20,6 +20,14 @@ body {
 
 }
 
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+    color: black;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+    cursor: default;
+}
+
 
 .nav-tabs a{
 	font-family:'Shift', sans-serif;
@@ -27,6 +35,6 @@ body {
 	font-color: white;
 	display: inline;
 	font-size: 15px;
-	color: black;
+	color: white;
 	opacity: 1;
 }
