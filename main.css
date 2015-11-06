@@ -1,5 +1,6 @@
 body {
 	background: linear-gradient(#FAD2FA, lightyellow);
+	background-repeat: no-repeat;
 	font-family: 'Shadows Into Light', cursive;
 }
 
