@@ -33,6 +33,7 @@ body {
 
 .countdays script{
 	text-align: middle;
+	padding-left: 20px;
 }
 .countdays{
 	border: 1px solid white;
