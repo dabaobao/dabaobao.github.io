@@ -31,7 +31,15 @@ body {
 	opacity: 1;
 }
 
+.countdays .container{
+	text-align: middle;
+	font-size: 30px;
+	padding-left: 100px;
+	border: 1px solid white;
+	background-color: black;
+	background-size: 100px 100px;
 
+}
 
 
 
