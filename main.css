@@ -1,7 +1,7 @@
 body {
     background-image: url('starrysky.jpg');
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 400px 800px;
 	
 }
 
@@ -9,7 +9,7 @@ body {
 	font-family: 'Shadows Into Light', cursive, bold;
 	font-size: 48px;
 	padding-left: 50px;
-	font-color: white;
+	color: white;
 }
 
 
