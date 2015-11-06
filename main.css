@@ -6,9 +6,10 @@ body {
 }
 
 .title h1{
+
 	font-size: 48px;
-	margin-right: auto;
-	margin-left: auto;
+	padding-right: auto;
+	padding-left: auto;
 }
 
 .nav li{
