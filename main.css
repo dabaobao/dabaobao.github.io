@@ -5,3 +5,13 @@ body {
 	font-family: 'Shadows Into Light', cursive;
 }
 
+body h1{
+	font-size: 48px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.nav li{
+	display: inline;
+	font-size: 20px;
+}
