@@ -5,7 +5,7 @@ body {
 }
 
 .title h1{
-	font-family: 'Shadows Into Light', cursive;
+	font-family: 'Shadows Into Light', cursive, bold;
 	font-size: 48px;
 	padding-left: 50px;
 }
@@ -17,7 +17,7 @@ body {
 .nav li{
 	font-family:'Shift', sans-serif;
 	display: inline;
-	font-size: 20px;
+	font-size: 15px;
 	color: black;
 	
 }
