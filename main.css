@@ -33,6 +33,7 @@ body {
 
 
 .countdays .container{
+	font-weight: bold;
 	color: white;
 	text-align: center;
 	font-size: 30px;
@@ -42,7 +43,7 @@ body {
 	width: 800px;
 	position:relative;
 	top: 100px;
-	box-shadow: 1px 1px 1px 1px black;
+	box-shadow: 1px 1px 1px 1px #333;
 
 }
 
