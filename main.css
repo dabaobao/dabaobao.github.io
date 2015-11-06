@@ -38,7 +38,8 @@ body {
 	padding-top: 30px;
 	padding-bottom: 30px;
 	width: 600px;
-	vertical-align: middle;
+	position:relative;
+	top: 100px;
 
 }
 
