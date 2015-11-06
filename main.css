@@ -32,12 +32,12 @@ body {
 }
 
 .countdays .container{
-	text-align: middle;
+	text-align: center;
 	font-size: 30px;
-	padding-left: 150px;
 	border: 1px solid white;
+	border-radius: 25px;
 	background-color: black;
-	background-size: 100px 100px;
+
 
 }
 
