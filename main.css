@@ -37,11 +37,14 @@ body {
 	border: 1px solid white;
 	border-radius: 25px;
 	background-color: black;
-	background-size: 100px 100px;
-	vertical-align: middle;
 	position: absolute;
 	top: 50%;
+	left: 50%;
+}
 
+.countdays .countainer script{
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 
 
