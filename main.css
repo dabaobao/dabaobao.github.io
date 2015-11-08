@@ -24,13 +24,13 @@ body {
 .nav-tabs a:hover{
 	color:black;
 }
+
 .nav-tabs a{
 	font-family:'Shift', sans-serif;
 	font-weight: bold;
-	font-color: black;
 	display: inline;
 	font-size: 15px;
-	color: white;
+	color: black;
 	opacity: 1;
 }
 
